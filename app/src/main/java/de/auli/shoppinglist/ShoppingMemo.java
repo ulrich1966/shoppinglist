@@ -11,6 +11,12 @@ public class ShoppingMemo {
         this.quantity = quantity;
     }
 
+    public ShoppingMemo(Integer id, String product, Integer quantity) {
+        this.id = id;
+        this.product = product;
+        this.quantity = quantity;
+    }
+
     public Integer getId() {
         return id;
     }
