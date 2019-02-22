@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">kaufdichgluecklich</string>
+    <string name="app_name">Kauf Dich glücklich</string>
+    <string name="hello_world">Moin Bremen</string>
+    <string name="action_setting">Einstellungen</string>
+    <string name="txt_hint_quantity">Anzahl</string>
+    <string name="txt_hint_product">Produkt</string>
+    <string name="cmd_add">+</string>
+    <string name="txt_error_msg">Das Feld darf nicht leer sein</string>
 </resources>
